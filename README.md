@@ -1,3 +1,3 @@
 # CoreOS meetup Tokyo
 
-This is the plan for CoreOS meetup.
+This is a plan for CoreOS meetup.
